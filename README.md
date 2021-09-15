@@ -6,7 +6,7 @@
 
 > Ссылка на группу в телеграм: https://t.me/joinchat/nkHt3XkkgWhhN2Yy
 
-1. Модуль "Google Data Studio" (1 неделя) :lock: 
+1. [Модуль "Google Data Studio" (1 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/43eff69684c7a05e04a10e7639d7e1afccf45bd9/lab1.md) :unlock: 
 2. Модуль "Excel" (2 неделя) :lock:
 3. Модуль "Power BI" (3 неделя) :lock:
 4. Модуль "Power BI" (4 неделя) :lock:
