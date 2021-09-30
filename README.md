@@ -40,7 +40,7 @@ __Желаю успешного выполнения заданий__
 3. Неделя (Модуль "Power BI")
 - [Лекция 1 "Интерфейс Power BI"](#6)
 - [Лекция 2 "Принципы анализа данных. Практика Power BI"](#7)
-- Лекция 3
+- [Лекция 3 "Виды диаграмм. Практика в Power BI"](#8)
 
 ### Неделя 1 (Модуль "Google Data Studio")
 <a id="1"></a>
@@ -101,3 +101,11 @@ __Лекция 2 "Принципы анализа данных. Практика
 - [Презентация](https://drive.google.com/file/d/1CoX6VmYt2Y_KzsuOw-HHPbDJn2r5OkTa/view?usp=sharing)
 - [Датасет](https://docs.google.com/spreadsheets/d/1DafeKX1zkELUvJU2frbkUPtfnpsz9mG-8BbVG1U1f7M/edit?usp=sharing)
 
+<a id="8"></a>
+__Лекция 3 "Виды диаграмм. Практика в Power BI"__
+
+На лекции систематизировали полученные знания и вспооминил, что ещё необходимо изучить по плану. Рассмотрели основные виды визуализации, а также особые или специальные, которые применяются в более "узких" местах. Разобрали mind-map по выбору визуализации. Последняя практика в Power BI перед лабораторной работой.
+- [Запись урока]()
+- [Презентация](https://drive.google.com/file/d/1RDWCz35XnyMfBR2AsEdoSYKluGvKY0mL/view?usp=sharing)
+- Датасет (прежний)
+- [Mind-Map по выбору визуализации](https://spspa.ru/wp-content/uploads/2021/06/im-2_7tfoVBD.png)
