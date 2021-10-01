@@ -17,7 +17,7 @@
 
 1. [Модуль "Google Data Studio" (1 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/43eff69684c7a05e04a10e7639d7e1afccf45bd9/lab1.md) :smiley_cat:
 2. [Модуль "Excel" (2 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/99382923bb78721ed7b967ab179c88ff0062b9de/lab2.md) :smiley_cat:
-3. Модуль "Power BI" (3 неделя) :lock:
+3. [Модуль "Power BI" (3 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/c449e9b6dd4501b70b3bb4f1122f302d879f1775/lab3.md) :smiley_cat:
 4. Модуль "Power BI" (4 неделя) :lock:
 5. Модуль "Tableau" (5 неделя) :lock:
 6. Модуль "Tableau" (6 неделя) :lock:
@@ -105,7 +105,7 @@ __Лекция 2 "Принципы анализа данных. Практика
 __Лекция 3 "Виды диаграмм. Практика в Power BI"__
 
 На лекции систематизировали полученные знания и вспооминил, что ещё необходимо изучить по плану. Рассмотрели основные виды визуализации, а также особые или специальные, которые применяются в более "узких" местах. Разобрали mind-map по выбору визуализации. Последняя практика в Power BI перед лабораторной работой.
-- [Запись урока]()
+- [Запись урока](https://youtu.be/Ef43E847jvY)
 - [Презентация](https://drive.google.com/file/d/1RDWCz35XnyMfBR2AsEdoSYKluGvKY0mL/view?usp=sharing)
 - Датасет (прежний)
 - [Mind-Map по выбору визуализации](https://spspa.ru/wp-content/uploads/2021/06/im-2_7tfoVBD.png)
