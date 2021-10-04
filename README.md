@@ -41,6 +41,10 @@ __Желаю успешного выполнения заданий__
 - [Лекция 1 "Интерфейс Power BI"](#6)
 - [Лекция 2 "Принципы анализа данных. Практика Power BI"](#7)
 - [Лекция 3 "Виды диаграмм. Практика в Power BI"](#8)
+4. Неделя (Модуль "Power BI")
+- [Лекция 1 "Упрощенный ETL. Практика в Power BI"](#9)
+- [Лекция 2](#10)
+- [Лекция 3](#11)
 
 ### Неделя 1 (Модуль "Google Data Studio")
 <a id="1"></a>
@@ -109,3 +113,13 @@ __Лекция 3 "Виды диаграмм. Практика в Power BI"__
 - [Презентация](https://drive.google.com/file/d/1RDWCz35XnyMfBR2AsEdoSYKluGvKY0mL/view?usp=sharing)
 - Датасет (прежний)
 - [Mind-Map по выбору визуализации](https://spspa.ru/wp-content/uploads/2021/06/im-2_7tfoVBD.png)
+
+### Неделя 4 (Модуль "Power BI")
+
+<a id="9"></a>
+__Лекция 1 "Упрощенный ETL. Практика в Power BI"__
+
+На лекции рассказал об ETL-процессах. Структурировали уже изученный материал, вспомнили основные теоретические моменты. Подключили второй источник данных к нашему отчету в Power BI, соединили эти две таблицы в модели данных. Создали кнопки для переключения между страницами в отчетах Power BI.
+- [Запись урока](https://youtu.be/5Gj2EpivPoI) - практическая часть
+- [Презентация](https://drive.google.com/file/d/15lBFn3wkivfMEvzH2BTpNjtmo2M_in0a/view?usp=sharing)
+- [Доп. данные](https://drive.google.com/file/d/1_kxMzUBrH-wlJ7fOlN6APO9xU6woYkK8/view?usp=sharing)
