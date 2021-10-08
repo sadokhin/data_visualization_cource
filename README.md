@@ -18,7 +18,7 @@
 1. [Модуль "Google Data Studio" (1 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/43eff69684c7a05e04a10e7639d7e1afccf45bd9/lab1.md) :smiley_cat:
 2. [Модуль "Excel" (2 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/99382923bb78721ed7b967ab179c88ff0062b9de/lab2.md) :smiley_cat:
 3. [Модуль "Power BI" (3 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/c449e9b6dd4501b70b3bb4f1122f302d879f1775/lab3.md) :smiley_cat:
-4. Модуль "Power BI" (4 неделя) :lock:
+4. [Модуль "Power BI" (4 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/6479c07facf04fd0773b18781a7dfb556901cd0e/lab4.md) :smiley_cat:
 5. Модуль "Tableau" (5 неделя) :lock:
 6. Модуль "Tableau" (6 неделя) :lock:
 7. Модуль "Python" (7 неделя) :lock:
