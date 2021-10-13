@@ -48,7 +48,7 @@ __Желаю успешного выполнения заданий__
 - [Консультация](#11)
 5. Неделя (Модуль "Tableau")
 - [Лекция 1 "Join и Union. Интерфейс Tableau"](#12)
-- [Лекция 2]
+- [Лекция 2 "Dashboard Canvas. Практика Tableau"](#13)
 - [Лекция 3]
 
 ### Неделя 1 (Модуль "Google Data Studio")
@@ -151,4 +151,11 @@ __Лекция 1 "Join и Union. Интерфейс Tableau"__
 - [Запись урока](https://youtu.be/jllEMLwREI8)
 - [Презентация](https://drive.google.com/file/d/17c0zTQUXKRVdMlHXjq3NRkGsS58s7lB6/view?usp=sharing)
 - [Датасет 5 недели](https://drive.google.com/file/d/1ERwo0l1fr82oFhvg_zUz3_ELad6BgCgx/view?usp=sharing)
+
+<a id="13"></a>
+__Лекция 2 "Dashboard Canvas. Практика Tableau"__
+
+На лекции познакомились с алгоритмом проектирвоания дашборда, а также построили основные визуализации в Tableau Public.
+- [Запись урока](https://youtu.be/cBXS2FVRFfI)
+- [Dashboard Canvas](https://miro.com/app/board/o9J_kpOMVFA=/)
 
