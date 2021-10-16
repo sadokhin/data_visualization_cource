@@ -19,7 +19,7 @@
 2. [Модуль "Excel" (2 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab2.md) :smiley_cat:
 3. [Модуль "Power BI" (3 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab3.md) :smiley_cat:
 4. [Модуль "Power BI" (4 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab4.md) :smiley_cat:
-5. Модуль "Tableau" (5 неделя) :lock:
+5. [Модуль "Tableau" (5 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/a023de39cb1af0321b335f128b1fc4c5b2c2f6fc/lab5.md) :smiley_cat:
 6. Модуль "Tableau" (6 неделя) :lock:
 7. Модуль "Python" (7 неделя) :lock:
 8. Модуль "Python" (8 неделя) :lock:
