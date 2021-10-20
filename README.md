@@ -53,6 +53,7 @@ __Желаю успешного выполнения заданий__
 - [Консультация-разбор лабораторной](#15)
 6. Неделя (Модуль "Tableau")
 - [Лекция 1 "Storytelling"](#16)
+- [Лекция 2 "Построение Story в Tableau"](#17)
 
 ### Неделя 1 (Модуль "Google Data Studio")
 <a id="1"></a>
@@ -185,3 +186,10 @@ __Лекция 1 "Storytelling"__
 - [Запись урока](https://youtu.be/YxsJHa9eMBM)
 - [Презентация](https://drive.google.com/file/d/1GcDbEH1jTvA4GmF94mW4rCfBFRXWSCw3/view?usp=sharing)
 - [Датасет 6 недели](https://drive.google.com/file/d/19ENqtiIbMCtn7t2rkBsYEPpmCExNjdVM/view?usp=sharing)
+
+<a id="17"></a>
+__Лекция 2 "Построение Story в Tableau"__
+
+Разобрались как построить Story, изменять размер дашбордов, вставлять картинки, текст. Добавлять фильтры, анотации и подписи к визуализациям. В этой записи все, что нужно для выполнения лабораторной работы №6.
+- [Запись урока](https://youtu.be/9w4xCvs4ANY)
+- [Шаблон лабораторной](https://public.tableau.com/shared/MCSZ949GH?:display_count=n&:origin=viz_share_link) - что-то похожее должно получится и у вас. Только, надеюсь, вы оформите в разы лучше :)
