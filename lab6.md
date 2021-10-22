@@ -8,7 +8,7 @@
 >
 > [Лекция 2 "Построение Story в Tableau"](https://youtu.be/9w4xCvs4ANY)
 > 
-> [Лекция 3 "LoD выражения в Tableau"](https://youtu.be/pyuw4C4eTAE)
+> [Лекция 3 "LoD выражения в Tableau"](https://youtu.be/nisy3qNVj-8)
 > 
 > [Шаблон лабораторной](https://public.tableau.com/shared/MCSZ949GH?:display_count=n&:origin=viz_share_link)
 
