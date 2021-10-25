@@ -3,12 +3,18 @@
 [Обратно к выбору лабораторной :back:](https://github.com/sadokhin/A1_Data_Visualization/blob/962705b6445b2bc117fa2d7bd38c10e4f1718aba/README.md)
 
 > Датасет: [filmtv_movies](https://drive.google.com/file/d/1iB5_UY4TPC2d8TNparIvbfJzrGpdSj-G/view?usp=sharing)
->
+
+__Записи уроков__
+
 > [Лекция 1 "Практика Python в Google Colab"]
 >
 > [Лекция 2 "Библиотеки matplotlib + seaborn"]
 > 
 > [Лекция 3 "Библиотека plotly"]
+
+__Тетрадки Google Colab__
+
+> [week7_lecture1.ipynb](https://colab.research.google.com/drive/1cSWAr_dU6617GgxqXFI-R0WEi1YprJYt?usp=sharing)
 
 В данной лабораторной работе вам необходимо построить визуализации с помощью Python в Google Colab и ответить на вопросы в гугл-форме.
 
