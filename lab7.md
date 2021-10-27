@@ -15,6 +15,7 @@ __Записи уроков__
 __Тетрадки Google Colab__
 
 > [week7_lecture1.ipynb](https://colab.research.google.com/drive/1cSWAr_dU6617GgxqXFI-R0WEi1YprJYt?usp=sharing)
+> 
 > [week7_lecture2.ipynb](https://colab.research.google.com/drive/1gon_cDA99pj6AhlVbji-hAAI_ydzjgyt?usp=sharing)
 
 В данной лабораторной работе вам необходимо построить визуализации с помощью Python в Google Colab и ответить на вопросы в гугл-форме.
