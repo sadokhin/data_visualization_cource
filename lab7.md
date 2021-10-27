@@ -6,9 +6,9 @@
 
 __Записи уроков__
 
-> [Лекция 1 "Практика Python в Google Colab"]
+> [Лекция 1 "Практика Python в Google Colab"](https://youtu.be/IAP6vEc-ang)
 >
-> [Лекция 2 "Библиотеки matplotlib + seaborn"]
+> [Лекция 2 "Библиотеки matplotlib + seaborn"](https://youtu.be/hI0I51yOLF8)
 > 
 > [Лекция 3 "Библиотека plotly"]
 
