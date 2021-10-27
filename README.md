@@ -21,7 +21,7 @@
 4. [Модуль "Power BI" (4 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab4.md) :smiley_cat:
 5. [Модуль "Tableau" (5 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/a023de39cb1af0321b335f128b1fc4c5b2c2f6fc/lab5.md) :smiley_cat:
 6. [Модуль "Tableau" (6 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/80f1edcc23d579eab45a585c7dc57cc906564f73/lab6.md) :smiley_cat:
-7. Модуль "Python" (7 неделя) :lock:
+7. [Модуль "Python" (7 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/3badb7ae22b58339e2787e68a51ff9a703fb4440/lab7.md) :smiley_cat:
 8. Модуль "Python" (8 неделя) :lock:
 9. Модуль "Индивидуальный Проект" (9 неделя) :lock:
 
@@ -55,6 +55,10 @@ __Желаю успешного выполнения заданий__
 - [Лекция 1 "Storytelling"](#16)
 - [Лекция 2 "Построение Story в Tableau"](#17)
 - [Лекция 3 "LoD выражения в Tableau"](#18)
+7. Неделя (Модуль "Python")
+- [Лекция 1 "Практика Python в Google Colab"](#19)
+- [Лекция 2 "Библиотеки Seaborn и Matplotlib"](#20)
+- [Лекция 3 "Предобратка данных. Библиотека plotly"](#21)
 
 ### Неделя 1 (Модуль "Google Data Studio")
 <a id="1"></a>
@@ -200,3 +204,25 @@ __Лекция 3 "LoD выражения в Tableau"__
 
 Разобрали задания из лабораторной работы №6. Дал рекомендации по выполнению каждой задачи. Познакомились с уровнями детализации данных. Затем, рассмотрели выражения LoD, позволяющие манипулировать уровнями детализации при подсчете каких-либо значений.
 - [Запись урока](https://youtu.be/nisy3qNVj-8)
+
+### Неделя 7 (Модуль "Python")
+
+<a id="19"></a>
+__Лекция 1 "Практика Python в Google Colab"__
+
+Узнали, какое место занимает язык программирования при визуализации данных. Поставили цели и задачи на две недели. Познакомились со средой, где будем писать на python. Настроили её. Написали первые команды для первичного анализа.
+- [Запись урока](https://youtu.be/IAP6vEc-ang)
+- [Презентация](https://drive.google.com/file/d/12AO9QFkfb87JhWvGSsrcEWQQjHsrrkaY/view?usp=sharing)
+- [Датасет 7 недели](https://drive.google.com/file/d/1iB5_UY4TPC2d8TNparIvbfJzrGpdSj-G/view?usp=sharing)
+- [Google Colab](https://colab.research.google.com/)
+- [Блокнот 1 лекции](https://colab.research.google.com/drive/1cSWAr_dU6617GgxqXFI-R0WEi1YprJYt?usp=sharing)
+
+<a id="20"></a>
+__Лекция 2 "Библиотеки Seaborn и Matplotlib"__
+
+Узнали, как строится диграмма boxplot (Ящик с усами). Какова её роль и гистаграммы. В чем их отличие. Построили три диаграммы из лабораторной работы.
+- [Запись урока](https://youtu.be/hI0I51yOLF8)
+- [Блокнот 2 лекции](https://colab.research.google.com/drive/1gon_cDA99pj6AhlVbji-hAAI_ydzjgyt?usp=sharing)
+
+<a id="21"></a>
+__Лекция 3 "Предобратка данных. Библиотека plotly"__
