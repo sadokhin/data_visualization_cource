@@ -15,6 +15,7 @@ __Записи уроков__
 __Тетрадки Google Colab__
 
 > [week7_lecture1.ipynb](https://colab.research.google.com/drive/1cSWAr_dU6617GgxqXFI-R0WEi1YprJYt?usp=sharing)
+> [week7_lecture2.ipynb](https://colab.research.google.com/drive/1gon_cDA99pj6AhlVbji-hAAI_ydzjgyt?usp=sharing)
 
 В данной лабораторной работе вам необходимо построить визуализации с помощью Python в Google Colab и ответить на вопросы в гугл-форме.
 
@@ -55,7 +56,7 @@ __1. Визуализации__
 
 - __Количество фильмов по жанрам__ : функция `barplot()` у библиотеки seaborn.
 - __Распределение среднего рейтинга по жанрам__ : функция `boxplot()` у библиотеки seaborn.
-- __Распределение фильмов по продолжительности в разрезе жанра__ : функция histplot() у библиотеки seaborn.
+- __Распределение фильмов по продолжительности в разрезе жанра__ : функция `histplot()` у библиотеки seaborn.
 - __Средний ретинг и количество голосов у ТОП-20 фильмов__ : `Scatter()` у библиотеки plotly.
 - __Количество фильмов по странам__ : `choropleth()` у библиотеки plotly.
 
