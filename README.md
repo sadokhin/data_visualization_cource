@@ -58,7 +58,7 @@ __Желаю успешного выполнения заданий__
 7. Неделя (Модуль "Python")
 - [Лекция 1 "Практика Python в Google Colab"](#19)
 - [Лекция 2 "Библиотеки Seaborn и Matplotlib"](#20)
-- [Лекция 3 "Предобратка данных. Библиотека plotly"](#21)
+- [Лекция 3 "Предобработка данных. Библиотека plotly"](#21)
 
 ### Неделя 1 (Модуль "Google Data Studio")
 <a id="1"></a>
@@ -225,4 +225,9 @@ __Лекция 2 "Библиотеки Seaborn и Matplotlib"__
 - [Блокнот 2 лекции](https://colab.research.google.com/drive/1gon_cDA99pj6AhlVbji-hAAI_ydzjgyt?usp=sharing)
 
 <a id="21"></a>
-__Лекция 3 "Предобратка данных. Библиотека plotly"__
+__Лекция 3 "Предобработка данных. Библиотека plotly"__
+
+На лекции расмотрели типичные проблемы в данных и как с ними бороться с помощью Python. Построили визуалзиацию с помощью библиотеки plotly
+- [Запись урока](https://youtu.be/IAP6vEc-ang)
+- [Презентация](https://drive.google.com/file/d/1homnoF3ITHQKzbDI2YDMm78dbr4S_-KQ/view?usp=sharing)
+- [Блокнот 3 лекции](https://colab.research.google.com/drive/1jx9MqbV0zXm2XzvigRSeult-KLsmv0tD?usp=sharing)
