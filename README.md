@@ -228,6 +228,6 @@ __Лекция 2 "Библиотеки Seaborn и Matplotlib"__
 __Лекция 3 "Предобработка данных. Библиотека plotly"__
 
 На лекции расмотрели типичные проблемы в данных и как с ними бороться с помощью Python. Построили визуалзиацию с помощью библиотеки plotly
-- [Запись урока](https://youtu.be/IAP6vEc-ang)
+- [Запись урока](https://youtu.be/EEtpfh4QqLI)
 - [Презентация](https://drive.google.com/file/d/1homnoF3ITHQKzbDI2YDMm78dbr4S_-KQ/view?usp=sharing)
 - [Блокнот 3 лекции](https://colab.research.google.com/drive/1jx9MqbV0zXm2XzvigRSeult-KLsmv0tD?usp=sharing)
