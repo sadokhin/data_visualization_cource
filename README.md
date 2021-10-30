@@ -59,6 +59,7 @@ __Желаю успешного выполнения заданий__
 - [Лекция 1 "Практика Python в Google Colab"](#19)
 - [Лекция 2 "Библиотеки Seaborn и Matplotlib"](#20)
 - [Лекция 3 "Предобработка данных. Библиотека plotly"](#21)
+- [Консультация-разбор лабораторной](#22)
 
 ### Неделя 1 (Модуль "Google Data Studio")
 <a id="1"></a>
@@ -231,3 +232,9 @@ __Лекция 3 "Предобработка данных. Библиотека 
 - [Запись урока](https://youtu.be/EEtpfh4QqLI)
 - [Презентация](https://drive.google.com/file/d/1homnoF3ITHQKzbDI2YDMm78dbr4S_-KQ/view?usp=sharing)
 - [Блокнот 3 лекции](https://colab.research.google.com/drive/1jx9MqbV0zXm2XzvigRSeult-KLsmv0tD?usp=sharing)
+
+__Консультация-разбор лабораторной__
+
+В этом видео разобраны ответы на вопросы. А построение визуализаций, разбирали на лекциях 2 и 3.
+- [Запись урока](https://youtu.be/ozYDh5dFpeA)
+- [Блокнот ответы на воросы](https://colab.research.google.com/drive/1KOTe7S13evywtzYlCAbYMG_qGe8Js-ls?usp=sharing)
