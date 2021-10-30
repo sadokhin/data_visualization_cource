@@ -10,7 +10,9 @@ __Записи уроков__
 >
 > [Лекция 2 "Библиотеки matplotlib + seaborn"](https://youtu.be/hI0I51yOLF8)
 > 
-> [Лекция 3 "Библиотека plotly"]
+> [Лекция 3 "Библиотека plotly"](https://youtu.be/EEtpfh4QqLI)
+> 
+> [Разбор лабораторной №7](https://youtu.be/ozYDh5dFpeA)
 
 __Тетрадки Google Colab__
 
@@ -19,6 +21,8 @@ __Тетрадки Google Colab__
 > [week7_lecture2.ipynb](https://colab.research.google.com/drive/1gon_cDA99pj6AhlVbji-hAAI_ydzjgyt?usp=sharing)
 > 
 > [week7_lecture3.ipynb](https://colab.research.google.com/drive/1jx9MqbV0zXm2XzvigRSeult-KLsmv0tD?usp=sharing)
+> 
+> [Ответы на воросы к лаб7](https://colab.research.google.com/drive/1KOTe7S13evywtzYlCAbYMG_qGe8Js-ls?usp=sharing)
 
 В данной лабораторной работе вам необходимо построить визуализации с помощью Python в Google Colab и ответить на вопросы в гугл-форме.
 
