@@ -233,6 +233,7 @@ __Лекция 3 "Предобработка данных. Библиотека 
 - [Презентация](https://drive.google.com/file/d/1homnoF3ITHQKzbDI2YDMm78dbr4S_-KQ/view?usp=sharing)
 - [Блокнот 3 лекции](https://colab.research.google.com/drive/1jx9MqbV0zXm2XzvigRSeult-KLsmv0tD?usp=sharing)
 
+<a id="22"></a>
 __Консультация-разбор лабораторной__
 
 В этом видео разобраны ответы на вопросы. А построение визуализаций, разбирали на лекциях 2 и 3.
