@@ -22,8 +22,7 @@
 5. [Модуль "Tableau" (5 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/a023de39cb1af0321b335f128b1fc4c5b2c2f6fc/lab5.md) :smiley_cat:
 6. [Модуль "Tableau" (6 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/80f1edcc23d579eab45a585c7dc57cc906564f73/lab6.md) :smiley_cat:
 7. [Модуль "Python" (7 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/3badb7ae22b58339e2787e68a51ff9a703fb4440/lab7.md) :smiley_cat:
-8. Модуль "Python" (8 неделя) :lock:
-9. Модуль "Индивидуальный Проект" (9 неделя) :lock:
+8. [Модуль "Python" (8 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/fe995326fd138e91d86cc234d481518c7590aebe/lab8.md) :smiley_cat:
 
 __Желаю успешного выполнения заданий__
 
