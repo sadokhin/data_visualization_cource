@@ -6,16 +6,16 @@
 
 __Записи уроков__
 
-> [Лекция 1 "Библиотека Pandas"]
->
-> [Лекция 2 "Анализ данных на Python ч.1"]
+> [Лекция 1 "Анализ данных на Python ч.1"](https://youtu.be/vhrg_v69co4)
 > 
-> [Лекция 3 "Анализ данных на Python ч.2"]
+> [Лекция 2 "Анализ данных на Python ч.2"]
+> 
+> [Лекция 3 "Анализ данных на Python ч.3"]
 
 
 __Тетрадки Google Colab__
 
-> [week8_lecture1.ipynb]
+> [week8_lecture1.ipynb](https://colab.research.google.com/drive/1spXh8MkA9SSCpjtsdf03ZzE6GoDC-FpL?usp=sharing)
 > 
 > [week8_lecture2.ipynb]
 > 
