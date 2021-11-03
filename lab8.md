@@ -8,18 +8,15 @@ __Записи уроков__
 
 > [Лекция 1 "Анализ данных на Python ч.1"](https://youtu.be/vhrg_v69co4)
 > 
-> [Лекция 2 "Анализ данных на Python ч.2"]
+> [Лекция 2 "Анализ данных на Python ч.2"](https://youtu.be/gtR7b2jzV54)
 > 
 > [Лекция 3 "Анализ данных на Python ч.3"]
 
 
-__Тетрадки Google Colab__
+__Тетрадка Google Colab__
 
-> [week8_lecture1.ipynb](https://colab.research.google.com/drive/1spXh8MkA9SSCpjtsdf03ZzE6GoDC-FpL?usp=sharing)
-> 
-> [week8_lecture2.ipynb]
-> 
-> [week8_lecture3.ipynb]
+> [week8.ipynb](https://colab.research.google.com/drive/1spXh8MkA9SSCpjtsdf03ZzE6GoDC-FpL?usp=sharing)
+
 
 В данной лабораторной работе вам необходимо ответить на вопросы, которые обычно ставит перед аналитиками бизнес. Для этого вам необходимо считать несколько файлов с данными в один. Выполнить предобработку и построив визуализации, дать ответы. Результатом будет блокнот google colab, в котором есть поставленным вопрос и ваш ясный ответ.
 
