@@ -252,3 +252,10 @@ __Лекция 1 "Анализ данных на Python ч.1"__
 - [Запись урока](https://youtu.be/vhrg_v69co4)
 - [Датасет 8 недели](https://drive.google.com/drive/folders/1AEiWXADWenoyEp-qngAA7Q27oULL6Xt1?usp=sharing)
 - [Блокнот 1 лекции](https://colab.research.google.com/drive/1spXh8MkA9SSCpjtsdf03ZzE6GoDC-FpL?usp=sharing)
+
+<a id="24"></a>
+__Лекция 2 "Анализ данных на Python ч.2"__
+
+Ответили ещё на два вопроса из лабораторной работы.
+- [Запись урока](https://youtu.be/vhrg_v69co4)
+- [Блокнот прежний](https://colab.research.google.com/drive/1spXh8MkA9SSCpjtsdf03ZzE6GoDC-FpL?usp=sharing)
