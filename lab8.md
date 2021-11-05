@@ -10,7 +10,7 @@ __Записи уроков__
 > 
 > [Лекция 2 "Анализ данных на Python ч.2"](https://youtu.be/gtR7b2jzV54)
 > 
-> [Лекция 3 "Анализ данных на Python ч.3"]
+> [Лекция 3 "Анализ данных на Python ч.3"](https://youtu.be/XQ874VKlTuk)
 
 
 __Тетрадка Google Colab__
