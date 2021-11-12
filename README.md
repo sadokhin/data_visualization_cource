@@ -64,6 +64,8 @@ __Желаю успешного выполнения заданий__
 - [Лекция 1 "Анализ данных на Python ч.1"](#23)
 - [Лекция 2 "Анализ данных на Python ч.2"](#24)
 - [Лекция 3 "Анализ данных на Python ч.3"](#25)
+9. Заключительная лекция
+- [Презентация](https://drive.google.com/file/d/1kPddnSvmDRgkWgyxyvzxr1Kb88cT7v-N/view?usp=sharing)
 
 ### Неделя 1 (Модуль "Google Data Studio")
 <a id="1"></a>
