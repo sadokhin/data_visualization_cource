@@ -1,4 +1,4 @@
-![Академия первых](https://github.com/sadokhin/A1_Data_Visualization/blob/58382bc5549e1b1ec4bf33dea2345244b71cbcbf/img/43625272.jpg)
+![Академия первых](https://github.com/sadokhin/A1_Data_Visualization/blob/b2ae0a5624191c456b043f1e796018105f78c5e2/img/banner_dataviz.png)
 
 # Курс "Визуализация данных" - Академия первых
 
