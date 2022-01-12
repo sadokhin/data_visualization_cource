@@ -1,6 +1,6 @@
 ![Академия первых](https://github.com/sadokhin/A1_Data_Visualization/blob/b2ae0a5624191c456b043f1e796018105f78c5e2/img/banner_dataviz.png)
 
-# Курс "Визуализация данных" - Академия первых
+# Курс "Визуализация данных" - онлайн-школа ILYN
 
 Добро пожаловать на страницу курса "Визуализация данных".
 Ниже вы найдете всю необходимую информацию по курсу (уроки, лабораторные, презентации и другие полезные материалы)
@@ -8,8 +8,6 @@
 > Ссылка на группу в телеграм: [перейти](https://t.me/joinchat/nkHt3XkkgWhhN2Yy)
 > 
 > Ссылка на плейлист уроков на YouTube: [смотреть](https://youtube.com/playlist?list=PL90TmprvG5enhPsjDqEhpNq2MeoqfGLPC)
-> 
-> Ссылка на таблицу успеваемости: [отмет очки](https://docs.google.com/spreadsheets/d/1anCdnDv_PNPTl0fhkZr_hBvaTzNfgT_5CZcIysGbsBo/edit?usp=sharing)
 
 ## Лабораторные работы
 
