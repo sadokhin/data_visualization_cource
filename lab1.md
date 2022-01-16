@@ -4,9 +4,13 @@
 
 > Google Data Studio: [https://datastudio.google.com/](https://datastudio.google.com/)
 > Датасет: [avengers.xlsx](https://docs.google.com/spreadsheets/d/1eXtd6aqzW3QK8quWLKSeQdysRzWDW64V3FFXcFCEdH0/edit?usp=sharing)
-[Ссылка на лекцию 1 "Введение в курс"](https://youtu.be/AuUpmtJKBTA) - неудачная запись, когда-нибудь перезалью
-Ссылка на лекцию 2 "Практика в Google Data Studio" - 17 сентября
-Ссылка на консультацию 1 недели - 18 сентября
+>
+> Уроки
+> 1. [Урок №1 "Введение в курс"](https://youtu.be/AuUpmtJKBTA)
+> 2. [Урок №2 "Введение в курс"](https://youtu.be/AuUpmtJKBTA)
+> 3. [Урок №3 "Введение в курс"](https://youtu.be/AuUpmtJKBTA)
+> 4. [Урок №4 "Введение в курс"](https://youtu.be/AuUpmtJKBTA)
+> 5. [Урок №5 "Введение в курс"](https://youtu.be/AuUpmtJKBTA)
 
 ## Описание полей датасета
 
