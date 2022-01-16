@@ -2,7 +2,7 @@
 
 > Google Data Studio: [https://datastudio.google.com/](https://datastudio.google.com/)  
 > Датасет: [avengers.xlsx](https://docs.google.com/spreadsheets/d/1eXtd6aqzW3QK8quWLKSeQdysRzWDW64V3FFXcFCEdH0/edit?usp=sharing)  
-> Уроки:
+> Записи уроков:
 > 1. [Урок №1 "Введение в курс"](https://youtu.be/_7GgooCCStg)
 > 2. [Урок №2 "Интерфейс Google Data Studio"](https://youtu.be/GNmUO78Ug-0)
 > 3. [Урок №3 "Построение визуализаций в Google Data Studio"](https://youtu.be/24UM9ejg6AA)
