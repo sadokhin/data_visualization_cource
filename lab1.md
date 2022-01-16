@@ -3,10 +3,10 @@
 [Обратно к выбору лабораторной :back:](https://github.com/sadokhin/A1_Data_Visualization/blob/962705b6445b2bc117fa2d7bd38c10e4f1718aba/README.md)
 
 > Google Data Studio: [https://datastudio.google.com/](https://datastudio.google.com/) 
-> Датасет: [avengers.xlsx](https://docs.google.com/spreadsheets/d/1eXtd6aqzW3QK8quWLKSeQdysRzWDW64V3FFXcFCEdH0/edit?usp=sharing)
-> [Ссылка на лекцию 1 "Введение в курс"](https://youtu.be/AuUpmtJKBTA) - неудачная запись, когда-нибудь перезалью
-> Ссылка на лекцию 2 "Практика в Google Data Studio" - 17 сентября
-> Ссылка на консультацию 1 недели - 18 сентября
+Датасет: [avengers.xlsx](https://docs.google.com/spreadsheets/d/1eXtd6aqzW3QK8quWLKSeQdysRzWDW64V3FFXcFCEdH0/edit?usp=sharing)
+[Ссылка на лекцию 1 "Введение в курс"](https://youtu.be/AuUpmtJKBTA) - неудачная запись, когда-нибудь перезалью
+Ссылка на лекцию 2 "Практика в Google Data Studio" - 17 сентября
+Ссылка на консультацию 1 недели - 18 сентября
 
 ## Описание полей датасета
 
