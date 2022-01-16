@@ -7,7 +7,7 @@
 > 2. [Урок №2 "Интерфейс Google Data Studio"](https://youtu.be/GNmUO78Ug-0)
 > 3. [Урок №3 "Построение визуализаций в Google Data Studio"](https://youtu.be/24UM9ejg6AA)
 > 4. [Урок №4 "Элементы управления и вычисляемые поля в Google Data Studio"](https://youtu.be/dlAcIbLuGn4)
-> 5. [Урок №5 "Строиv дашборд в Google Data Studio"](https://youtu.be/AuUpmtJKBTA)
+> 5. [Урок №5 "Построение дашборда в Google Data Studio"](https://youtu.be/AuUpmtJKBTA)
 
 ## Описание полей датасета
 
@@ -34,7 +34,7 @@
 1. Визуализации нужно построить в Google Data Studio.
 2. Ответить на вопросы в гугл-форме, где в одном из ответов можно будет прикрепить ссылку на ваши визуализации. Данный ответ будет необязательным, если кому-то интереснее просто ответить на вопросы, построив оперативный дашборд, без оформлений. Но тогда я не смогу дать вам обратную связь по дашборду.
 
-### 1. Работа с Google Data Studio__
+### 1. Работа с Google Data Studio
 
 >[Пример дашборда, который должен получится](https://github.com/sadokhin/A1_Data_Visualization/blob/main/img/example_lab1.jpg)
 
