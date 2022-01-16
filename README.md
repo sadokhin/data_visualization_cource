@@ -5,82 +5,108 @@
 Добро пожаловать на страницу курса "Визуализация данных".
 Ниже вы найдете всю необходимую информацию по курсу (уроки, лабораторные, презентации и другие полезные материалы)
 
-> Ссылка на группу в телеграм: [перейти](https://t.me/joinchat/nkHt3XkkgWhhN2Yy)
-> 
+> Ссылка на Telegram-канал: [перейти](https://t.me/joinchat/nkHt3XkkgWhhN2Yy)  
 > Ссылка на плейлист уроков на YouTube: [смотреть](https://youtube.com/playlist?list=PL90TmprvG5enhPsjDqEhpNq2MeoqfGLPC)
 
 ## Лабораторные работы
 
-Переходите по ссылкам на лабораторные ниже и, следуя инструкциям, выполняйте задания. Каждую неделю будет открываться доступ к новым лабораторным заданиям.
+Переходите по ссылкам на лабораторные ниже и, следуя инструкциям, выполняйте задания.
 
-1. [Модуль "Google Data Studio" (1 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab1.md) :smiley_cat:
-2. [Модуль "Excel" (2 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab2.md) :smiley_cat:
-3. [Модуль "Power BI" (3 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab3.md) :smiley_cat:
-4. [Модуль "Power BI" (4 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab4.md) :smiley_cat:
-5. [Модуль "Tableau" (5 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/a023de39cb1af0321b335f128b1fc4c5b2c2f6fc/lab5.md) :smiley_cat:
-6. [Модуль "Tableau" (6 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/80f1edcc23d579eab45a585c7dc57cc906564f73/lab6.md) :smiley_cat:
-7. [Модуль "Python" (7 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/3badb7ae22b58339e2787e68a51ff9a703fb4440/lab7.md) :smiley_cat:
-8. [Модуль "Python" (8 неделя)](https://github.com/sadokhin/A1_Data_Visualization/blob/fe995326fd138e91d86cc234d481518c7590aebe/lab8.md) :smiley_cat:
-9. [Итоговая КР](https://docs.google.com/forms/d/e/1FAIpQLSeSMfaRHUMhImA_XUh82QzVJM9DYlmzMY4fLiPb7usj7rSUiQ/viewform?usp=sf_link) :smiley_cat:
+1. [Модуль "Google Data Studio"](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab1.md) :smiley_cat:
+2. [Модуль "Excel"](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab2.md) :smiley_cat:
+3. [Модуль "Power BI"](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab3.md) :smiley_cat:
+4. [Модуль "Tableau" №1](https://github.com/sadokhin/A1_Data_Visualization/blob/a023de39cb1af0321b335f128b1fc4c5b2c2f6fc/lab5.md) :smiley_cat:
+6. [Модуль "Tableau" №2](https://github.com/sadokhin/A1_Data_Visualization/blob/80f1edcc23d579eab45a585c7dc57cc906564f73/lab6.md) :smiley_cat:
+7. [Модуль "Python" №1](https://github.com/sadokhin/A1_Data_Visualization/blob/3badb7ae22b58339e2787e68a51ff9a703fb4440/lab7.md) :smiley_cat:
+8. [Модуль "Python" №2](https://github.com/sadokhin/A1_Data_Visualization/blob/fe995326fd138e91d86cc234d481518c7590aebe/lab8.md) :smiley_cat:
+9. [Итоговый тест](https://docs.google.com/forms/d/e/1FAIpQLSeSMfaRHUMhImA_XUh82QzVJM9DYlmzMY4fLiPb7usj7rSUiQ/viewform?usp=sf_link) :smiley_cat:
 
 __Желаю успешного выполнения заданий__
 
 ## Запись уроков
 
-Содержание курса со ссылками:
-1. Неделя (Модуль "Google Data Studio")
-- [Лекция 1 "Введение в курс"](#1)
-- [Лекция 2 "Практика Google Data Studio"](#2)
-2. Неделя (Модуль "Excel")
+Содержание курса со ссылками на уроки:
+
+### Модуль "Google Data Studio"
+- [Урок №1 "Введение в курс"](#1)
+- [Урок №2 "Интерфейс Google Data Studio"](#2)
+- [Урок №3 "Построение визуализаций в Google Data Studio"](#3)
+- [Урок №4 "Элементы управления и вычисляемые поля в Google Data Studio"](#4)
+- [Урок №5 "Построение дашборда в Google Data Studio"](#5)
+### Модуль "Excel"
 - [Лекция 1 "Возможности Excel"](#3)
 - [Лекция 2 "Ошибки при сборе данных. Практика в Excel"](#4)
 - [Лекция 3 "Данные. Практика в Excel"](#5)
-3. Неделя (Модуль "Power BI")
+### Модуль "Power BI"
 - [Лекция 1 "Интерфейс Power BI"](#6)
 - [Лекция 2 "Принципы анализа данных. Практика Power BI"](#7)
 - [Лекция 3 "Виды диаграмм. Практика в Power BI"](#8)
-4. Неделя (Модуль "Power BI")
+### Модуль "Power BI"
 - [Лекция 1 "Упрощенный ETL. Практика в Power BI"](#9)
 - [Лекция 2 "]
 - [Лекция 3 "Практика в Power BI. Переключители.](#10)
 - [Консультация](#11)
-5. Неделя (Модуль "Tableau")
+### Модуль "Tableau"
 - [Лекция 1 "Join и Union. Интерфейс Tableau"](#12)
 - [Лекция 2 "Dashboard Canvas. Практика Tableau"](#13)
 - [Лекция 3 "Построение диаграммы-бабочки в Tableau"](№14)
 - [Консультация-разбор лабораторной](#15)
-6. Неделя (Модуль "Tableau")
+### Модуль "Tableau"
 - [Лекция 1 "Storytelling"](#16)
 - [Лекция 2 "Построение Story в Tableau"](#17)
 - [Лекция 3 "LoD выражения в Tableau"](#18)
-7. Неделя (Модуль "Python")
+### Модуль "Python"
 - [Лекция 1 "Практика Python в Google Colab"](#19)
 - [Лекция 2 "Библиотеки Seaborn и Matplotlib"](#20)
 - [Лекция 3 "Предобработка данных. Библиотека plotly"](#21)
 - [Консультация-разбор лабораторной](#22)
-8. Неделя (Модуль "Python")
+### Модуль "Python"
 - [Лекция 1 "Анализ данных на Python ч.1"](#23)
 - [Лекция 2 "Анализ данных на Python ч.2"](#24)
 - [Лекция 3 "Анализ данных на Python ч.3"](#25)
-9. Заключительная лекция
+### Заключительная лекция
 - [Презентация](https://drive.google.com/file/d/1kPddnSvmDRgkWgyxyvzxr1Kb88cT7v-N/view?usp=sharing)
 
-### Неделя 1 (Модуль "Google Data Studio")
-<a id="1"></a>
-__Лекция 1 "Введение в курс"__
+## Подробное описание всех уроков
 
-На лекции ознакомились с целями и задачами, которые будет преследовать на протяжении всего курса. Как проходить курс. Профессия аналитика и её роль в компании.
-- [Запись урока](https://youtu.be/AuUpmtJKBTA)
-- [Презентация](https://drive.google.com/file/d/1IIYV_sTkuY6oGBNmCqIzG2Z2SHvbhhNA/view?usp=sharing)
-- [Датасет](https://docs.google.com/spreadsheets/d/1TWQ6Zu-7MU0lVTdj9eQuM5bBUAL3h1SXAj6d9q_l_1I/edit)
+Подробное содержание курса со ссылками на записи уроков, презентации, датасеты и дополнительные материалы.
+
+### Модуль "Google Data Studio"
+<a id="1"></a>
+#### Урок №1 "Введение в курс"
+
+На уроке ознакомимся с целями и задачами, которые будем преследовать на протяжении всего курса. Расскажу о том, как проходить курс. Разберемся в профессиях аналитика и их ролью в компании.
+- [Запись урока](https://youtu.be/_7GgooCCStg)
+- [Презентация](https://drive.google.com/file/d/1hMYvY7EINsy6RAgNxaKXJECHH9s8nXy7/view?usp=sharing)
 
 <a id="2"></a>
-__Лекция 2 "Практика Google Data Studio"__
+#### Урок №2 "Интерфейс Google Data Studio"
 
-На лекции вспомнили как подключать данные, как построить необходимые для лабораторной работы визуализации.
-- [Запись урока](https://youtu.be/7VTlEJD5ICM)
-- [Презентация](https://drive.google.com/file/d/1bZu02GZ1i4LBgI7BjcNBgWxjvcd_qB0L/view?usp=sharing)
+На уроке рассмотрим основные возможности Google Data Studio. Разберемся, как подключать данные. Познакомимся с интерфейсом инструмента. Дадим определения понятиям "Показатель" и "Параметр". Построим первую визуализацию. Настроим тему и шаблон.
+- [Запись урока](https://youtu.be/GNmUO78Ug-0)
+- [Презентация](https://drive.google.com/file/d/18iW237d-mBqeB8VS2e7Vqe6n1Xj5WTtP/view?usp=sharing)
 - [Датасет](https://docs.google.com/spreadsheets/d/1eXtd6aqzW3QK8quWLKSeQdysRzWDW64V3FFXcFCEdH0/edit?usp=sharing)
+- [Google Data Studio](https://datastudio.google.com/)
+
+<a id="3"></a>
+#### Урок №3 "Построение визуализаций в Google Data Studio"
+
+На уроке построим все встроенные визуализации в Google Data Studio. Рассмотрим общие и особенные настройки каждой из них и научимся изменять стиль всех визуализаций. Также, поговорим о сторонних визуализациях.
+- [Запись урока](https://youtu.be/24UM9ejg6AA)
+
+<a id="4"></a>
+#### Урок №4 "Элементы управления и вычисляемые поля в Google Data Studio"
+
+На уроке откроем новые возможности Google Data Studio, которые позволят нам в дальнейшем создать по настоящему интерактивный и профессиональный отчет. Сюда входят различные элементы управления (диапазоны дат, фильтры и срезы на уровне диаграмм и отчетов) и вычисляемые поля. В рамках вычисляемых полей также затронеи тему регулярных выражений.
+- [Запись урока](https://youtu.be/dlAcIbLuGn4)
+- [Презентация](https://drive.google.com/file/d/1tRHRdjuLUBYstAXp4JROeuvKw43q29R4/view?usp=sharing)
+
+<a id="5"></a>
+#### Урок №5 "Построение дашборда в Google Data Studio"
+
+На уроке поговорим о том, что такое дашборд и BI. Познакомимся с основными правилами построения дашборда. Далее, применим полученные знания на практике в построении нашего первого дашборда в Google Data Studio. Научимся создавать новые страницы и оформлять наш отчет. Также, познакомимся с требованиями к выполнению лабораторной работы №1.
+- [Запись урока](https://youtu.be/dlAcIbLuGn4)
+- [Презентация](https://drive.google.com/file/d/1tRHRdjuLUBYstAXp4JROeuvKw43q29R4/view?usp=sharing)
 
 ### Неделя 2 (Модуль "Excel")
 
