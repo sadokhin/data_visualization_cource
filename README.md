@@ -12,7 +12,7 @@
 
 Переходите по ссылкам на лабораторные ниже и, следуя инструкциям, выполняйте задания.
 
-1. [Модуль "Google Data Studio"](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab1.md) :smiley_cat:
+1. [Модуль "Google Data Studio"](https://github.com/sadokhin/ILYN_Data_Visualization/blob/main/lab1.md) :smiley_cat:
 2. [Модуль "Excel"](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab2.md) :smiley_cat:
 3. [Модуль "Power BI"](https://github.com/sadokhin/A1_Data_Visualization/blob/0485f3adf415d5c1fde2be65f0cf14830c2c521c/lab3.md) :smiley_cat:
 4. [Модуль "Tableau" №1](https://github.com/sadokhin/A1_Data_Visualization/blob/a023de39cb1af0321b335f128b1fc4c5b2c2f6fc/lab5.md) :smiley_cat:
